@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "661829a66b4287dadf9350a2"
+  },
+  "user": {
+    "$oid": "6617cc024c93fb2cdf0bd766"
+  },
+  "title": "hari050",
+  "content": "hello",
+  "categoryId": 1,
+  "createdAt": {
+    "$date": "2024-04-11T18:19:18.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-11T18:56:10.271Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66183285a88671e60034c960"
+  },
+  "user": {
+    "$oid": "6617cc024c93fb2cdf0bd766"
+  },
+  "title": "hari050",
+  "content": "friend",
+  "categoryId": 2,
+  "createdAt": {
+    "$date": "2024-04-11T18:57:09.595Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-11T18:57:09.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66183293a88671e60034c963"
+  },
+  "user": {
+    "$oid": "6617cc024c93fb2cdf0bd766"
+  },
+  "title": "hari050",
+  "content": "friend",
+  "categoryId": 1,
+  "createdAt": {
+    "$date": "2024-04-11T18:57:23.926Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-11T18:57:23.926Z"
+  },
+  "__v": 0
+}]

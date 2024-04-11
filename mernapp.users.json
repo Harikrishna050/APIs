@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65d45a41b410c32f9db36d57"
+  },
+  "name": "Hari",
+  "email": "harigmail.com",
+  "password": "$2a$10$wr23WCz2AXCQwY54emRZyOajz4wSutdZ8FZXsn5ioO9/ogxftg2E2",
+  "createdAt": {
+    "$date": "2024-02-20T07:52:33.408Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-20T07:52:33.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e60aa59001900e55a29644"
+  },
+  "name": "Hari",
+  "email": "ahad@gmail.com",
+  "password": "$2a$10$8usQFN9iZg70WNnyVQ02U.QRw/GkvSFsEljBrRLCjwnZQE43Fz.xy",
+  "createdAt": {
+    "$date": "2024-03-04T17:53:41.568Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-04T17:53:41.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eb3fea3987366795943e14"
+  },
+  "name": "lachana red",
+  "email": "lachanantr@gmail.com",
+  "password": "$2a$10$DTCO49fKkB/MA1fAjRlq3ujpjV2RzTRQr7pZA3/VKrpnjHygsEJxO",
+  "createdAt": {
+    "$date": "2024-03-08T16:42:18.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-08T16:42:18.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6615868b73f5aec267f2b28a"
+  },
+  "name": "21BEC1041",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJGtQQnBGVTZiS2REWHJVL1JHTVp5N2VMTzRCOVU5eC90QUVwclJDWGhKdzdWYndLTGdlUFF5",
+      "subType": "00"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6617cc024c93fb2cdf0bd766"
+  },
+  "name": "Hari",
+  "email": "hari050@gmail.com",
+  "password": "$2a$10$heyZ47GNSn6UhvGXoBy7cOsCkzp91w6EzQW68.qpyazDbaVJitBKS",
+  "createdAt": {
+    "$date": "2024-04-11T11:39:46.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-11T11:39:46.405Z"
+  },
+  "__v": 0
+}]
